@@ -1,0 +1,4 @@
+ru:
+  project_manager: "Менеджер проекта"
+  permission_assign_project_manager: "Назначение менеджера проекта"
+  blank: "Менеджер проекта должен быть выбран"
